@@ -2,7 +2,7 @@
 title: Sum of reciprocal of factorials
 description: Sum of reciprocal of factorials
 published: true
-date: 2022-12-13T00:35:27.134Z
+date: 2022-12-13T08:46:42.046Z
 tags: leonhard euler, sum
 editor: markdown
 dateCreated: 2022-12-12T18:45:42.864Z
@@ -16,7 +16,7 @@ $$\sum_{ n=0 }^{ \infty } \frac{ 1 }{ n! } = e$$
 ## Video
 
 ## LaTeX
-```latex
+```tex
 \sum_{ n=0 }^{ \infty } \frac{ 1 }{ n! } = e
 ```
 ## MathML
