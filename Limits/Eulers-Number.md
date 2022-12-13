@@ -2,13 +2,13 @@
 title: Eulers Number
 description: Eulers Number as a limit
 published: true
-date: 2022-12-13T08:49:32.539Z
+date: 2022-12-13T08:50:04.592Z
 tags: e, leonhard euler, limit
 editor: markdown
 dateCreated: 2022-12-13T00:39:37.282Z
 ---
 
-# Eulers Number {.tabset}
+# Eulers Number
 $$\lim_{n \to \infty } \left( 1 + \frac{ 1 }{ n } \right)^{ n } = e$$
 
 ## Derivation
