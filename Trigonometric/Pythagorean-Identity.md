@@ -2,7 +2,7 @@
 title: Pythagorean Identity
 description: Sum of the squares of Sine and Cosine
 published: true
-date: 2022-12-23T15:43:28.882Z
+date: 2022-12-23T15:43:31.993Z
 tags: pythagoras, pythagorean, sine, cosine, unity
 editor: markdown
 dateCreated: 2022-12-23T15:43:28.882Z
