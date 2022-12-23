@@ -2,7 +2,7 @@
 title: Sum of reciprocal of factorials
 description: Sum of reciprocal of factorials
 published: true
-date: 2022-12-23T13:31:27.556Z
+date: 2022-12-23T13:31:30.669Z
 tags: leonhard euler, sum
 editor: markdown
 dateCreated: 2022-12-12T18:45:42.864Z

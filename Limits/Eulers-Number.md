@@ -2,8 +2,8 @@
 title: Eulers Number
 description: Eulers Number as a limit
 published: true
-date: 2022-12-23T14:36:49.915Z
-tags: e, leonhard euler, limit
+date: 2022-12-23T14:36:53.045Z
+tags: leonhard euler, limit, e
 editor: markdown
 dateCreated: 2022-12-13T00:39:37.282Z
 ---

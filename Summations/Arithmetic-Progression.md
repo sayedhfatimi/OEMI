@@ -2,8 +2,8 @@
 title: Arithmetic Progression
 description: Sum up to n
 published: true
-date: 2022-12-23T13:28:53.355Z
-tags: arithmetic, arithmetic progression, sum, summation
+date: 2022-12-23T13:28:56.440Z
+tags: sum, summation, arithmetic progression, arithmetic
 editor: markdown
 dateCreated: 2022-12-13T02:49:18.395Z
 ---

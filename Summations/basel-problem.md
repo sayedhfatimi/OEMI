@@ -2,8 +2,8 @@
 title: Basel Problem
 description: Sum of reciprocal squares
 published: true
-date: 2022-12-23T13:26:44.881Z
-tags: leonhard euler, sum
+date: 2022-12-23T13:26:47.964Z
+tags: sum, leonhard euler
 editor: markdown
 dateCreated: 2022-12-12T11:34:17.004Z
 ---
