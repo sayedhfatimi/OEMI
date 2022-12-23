@@ -2,24 +2,21 @@
 title: Arithmetic Progression
 description: Sum up to n
 published: true
-date: 2022-12-13T08:46:26.750Z
+date: 2022-12-23T13:28:53.355Z
 tags: arithmetic, arithmetic progression, sum, summation
 editor: markdown
 dateCreated: 2022-12-13T02:49:18.395Z
 ---
 
-# Arithmetic Progression
 $$\sum_{ n=1 }^{ k } n = \frac{ n \left( n+1 \right) }{ 2 }$$
 
-## Derivation
-
-## Video
-
-## LaTeX
+# Arithmetic Progression {.tabset}
+## Script
+### LaTeX
 ```tex
 \sum_{ n=1 }^{ k } n = \frac{ n \left( n+1 \right) }{ 2 }
 ```
-## MathML
+### MathML
 ```mathml
 <math display="block">
   <mrow>
@@ -52,4 +49,7 @@ $$\sum_{ n=1 }^{ k } n = \frac{ n \left( n+1 \right) }{ 2 }$$
   </mrow>
 </math>
 ```
-## Other Forms
+
+## Derivation
+
+## Sources
