@@ -2,24 +2,21 @@
 title: Eulers Number
 description: Eulers Number as a limit
 published: true
-date: 2022-12-13T08:50:04.592Z
+date: 2022-12-23T14:36:49.915Z
 tags: e, leonhard euler, limit
 editor: markdown
 dateCreated: 2022-12-13T00:39:37.282Z
 ---
 
-# Eulers Number
 $$\lim_{n \to \infty } \left( 1 + \frac{ 1 }{ n } \right)^{ n } = e$$
 
-## Derivation
-
-## Video
-
-## LaTeX
+# Eulers Number {.tabset}
+## Script
+### LaTeX
 ```tex
 \lim_{n \to \infty } \left( 1 + \frac{ 1 }{ n } \right)^{ n } = e
 ```
-## MathML
+### MathML
 ```mathml
 <math display="block">
   <mrow>
@@ -50,4 +47,7 @@ $$\lim_{n \to \infty } \left( 1 + \frac{ 1 }{ n } \right)^{ n } = e$$
   </mrow>
 </math>
 ```
-## Other Forms
+
+## Derivation
+
+## Sources
