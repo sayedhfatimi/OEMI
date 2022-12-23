@@ -2,7 +2,7 @@
 title: Basel Problem
 description: Sum of reciprocal squares
 published: true
-date: 2022-12-23T13:25:57.431Z
+date: 2022-12-23T13:26:44.881Z
 tags: leonhard euler, sum
 editor: markdown
 dateCreated: 2022-12-12T11:34:17.004Z
@@ -11,8 +11,6 @@ dateCreated: 2022-12-12T11:34:17.004Z
 $$\sum_{n=1}^{\infty}\frac{1}{n^{2}}=\frac{\pi^{2}}{6}$$
 
 # Basel Problem {.tabset}
-## Derivation
-
 ## Script
 
 ### LaTeX
@@ -52,4 +50,7 @@ $$\sum_{n=1}^{\infty}\frac{1}{n^{2}}=\frac{\pi^{2}}{6}$$
   </mrow>
 </math>
 ```
+
+## Derivation
+
 ## Sources
